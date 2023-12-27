@@ -1,0 +1,59 @@
+.userListimg{
+    width: 120px;
+    height: 170px;
+    top: 125px;
+    left: 260px;
+
+    
+}
+.anaDiv{
+ display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+width: 200px;
+height: 400px;
+background-color: #ffffff;
+border-radius: 20px;
+margin-bottom: 5px;
+padding-left:50px ;
+padding-right: 50px;
+margin-top: 20px;
+margin-left: 50px;
+box-shadow:20px ;}
+.imgDiv{
+    border-bottom: 1px solid black;
+}
+
+.urun{
+   
+  display: flex;
+    width: 200px;
+    height: 200px;
+  
+  
+}
+.h1{
+width: 111px;
+height: 40px;
+top: 321px;
+left: 269px;
+font-family: Inter;
+font-size: 12px;
+font-weight: 400;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+.btn{
+width: 105px;
+height: 30px;
+padding: 7px, 7px, 8px, 24px;
+border-radius: 20px;
+background-color: #265073;
+
+}
+.imgDiv{
+    padding-bottom: 10px;
+}

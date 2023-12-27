@@ -1,0 +1,77 @@
+.main {
+ 
+  height: 100%;
+  width: 100%;
+  background-color: #9eb8d9;
+}
+.topNav{
+  display: flex;
+  position: relative;
+ height: 100px;
+ width: 2000px;
+  background-color:  #265073;
+
+}
+.filter{
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 200px;
+  background: white;
+  height: 1080px;
+}
+.description {
+  display: inherit;
+  justify-content: inherit;
+  align-items: inherit;
+  font-size: 0.85rem;
+  max-width: var(--max-width);
+  width: 100%;
+  z-index: 2;
+  font-family: var(--font-mono);
+}
+
+.h1{
+  font-family: Inter;
+font-size: 12px;
+font-weight: 400;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+
+}
+.filterB{
+  font-family: Inter;
+  padding-bottom: 15px;
+font-size: 12px;
+font-weight: 400;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+color: #265073;
+
+}
+#mycheckbox{
+  width: 16px;
+height: 15px;
+top: 103px;
+
+border: solid black 1px;
+
+}
+.li2{
+  display: flex;
+  
+}
+.img1{
+  margin-left: 1500px;
+  Width:31px;
+  Height:33px;
+  
+}
+.img2{
+  margin-left: 100px;
+  Width:31px;
+  Height:33px;
+}
